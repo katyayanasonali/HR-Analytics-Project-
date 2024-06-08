@@ -1,9 +1,11 @@
 # HR-Analytics-Project-
 
 Project Overview
+
 The HR Analytics Dashboard project aimed to leverage Power BI for transforming Excel-based HR data into a comprehensive, interactive dashboard. This project provided insightful visualizations and analytical capabilities to enhance data-driven decision-making in human resources management.
 
 Objectives
+
 Data Consolidation: Integrate multiple Excel sheets containing HR data into a single, unified dashboard.
 Interactive Visualizations: Develop intuitive visualizations to track key HR metrics and trends.
 Performance Monitoring: Enable continuous monitoring of HR performance indicators.
